@@ -1,0 +1,1 @@
+Built on Dojo, a set of semantic web tools including an RDF model, parsers/emitters for different RDF serializations and integration with the Dojo data store infrastructure. The goal is to allow RDF data to be used seamlessly with Dojo UI and data tools.
